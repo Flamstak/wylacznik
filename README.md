@@ -38,7 +38,7 @@ Prosta, ale potężna aplikacja okienkowa (GUI) dla systemu Windows do planowani
 
 1.  **Sklonuj repozytorium (lub pobierz plik `.py`):**
     ```bash
-    git clone github.com/Flamstak/wylacznik.git(https://github.com/Flamstak/wylacznik.git)
+    git clone [github.com/Flamstak/wylacznik.git](https://github.com/Flamstak/wylacznik.git)
     cd nazwa-folderu
     ```
 
